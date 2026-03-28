@@ -4,4 +4,4 @@ google-genai
 anthropic
 langchain
 litellm
-
+gradio
